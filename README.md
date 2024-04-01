@@ -1,1 +1,1 @@
-# Customer-Segmentation-using-Deep-Learning-
+# Customer-Segmentation-
